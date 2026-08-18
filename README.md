@@ -13,7 +13,7 @@ The addon automatically adapts targeting behavior depending on the zone you are 
 
 Install via Ascensionn WoWUP:
 
-[https://www.curseforge.com/wow/addons/smart-pvp-tab-targeting-wow](https://github.com/xZeroW/asc-wowup)
+[https://github.com/xZeroW/asc-wowup](https://github.com/xZeroW/asc-wowup)
 
 Or download manually and place the addon in:
 
