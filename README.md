@@ -11,9 +11,9 @@ The addon automatically adapts targeting behavior depending on the zone you are 
 
 ## Installation
 
-Install via CurseForge:
+Install via Ascensionn WoWUP:
 
-https://www.curseforge.com/wow/addons/smart-pvp-tab-targeting-wow
+[https://www.curseforge.com/wow/addons/smart-pvp-tab-targeting-wow](https://github.com/xZeroW/asc-wowup)
 
 Or download manually and place the addon in:
 
@@ -52,8 +52,5 @@ World of Warcraft/*retail*/Interface/AddOns/
 
 ## Links
 
-CurseForge  
-https://www.curseforge.com/wow/addons/smart-pvp-tab-targeting-wow
-
 Issues / Feedback  
-https://github.com/WSakhana/PVPTabTarget
+Discord: xzerow
